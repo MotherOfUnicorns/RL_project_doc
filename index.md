@@ -36,3 +36,8 @@ latex
 
 
 we can test a formula $$abc + d$$
+
+[link to another page](test.md)
+
+add an image:
+![this is an image](images/pokemon.png)
